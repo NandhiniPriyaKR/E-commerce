@@ -1,0 +1,53 @@
+
+ font-size: 24px;
+ font-weight: bold;
+}
+.owl-next span{
+ font-size: 24px;
+ font-weight: bold;
+.goodnessseccont img{
+    width:100%;
+}
+.buttermilk{
+    background-color:#fff;background-image:linear-gradient(#fff7ef, #fff);
+    background-image:-webkit-linear-gradient(#ac6621, #fff);
+    background-image:-moz-linear-gradient(#fff7ef, #be5e5e);
+    background-image:-ms-linear-gradient(#fff7ef, #fff);
+    background-image:-o-linear-gradient(#fff7ef, #fff);
+    padding:50px 40px;
+    border:1px solid #efe8e1;
+    padding-bottom:20px;
+}
+
+.smbg{
+    background-color:#fff;
+    background-image:linear-gradient(rgba(131, 46, 200, 0.1), #fff);
+    background-image:-webkit-linear-gradient(rgba(154, 92, 204, 0.1), #fff);
+    background-image:-moz-linear-gradient(rgba(89, 48, 123, 0.1), #fff);
+    background-image:-ms-linear-gradient(rgba(110, 69, 143, 0.1), #fff);
+    background-image:-o-linear-gradient(rgba(110, 69, 143, 0.1), #fff);
+}
+s
+.curdbgpro{
+    background-color:#fff;
+    background-image:linear-gradient(rgba(10, 202, 55, 0.1), #fff);
+    background-image:-webkit-linear-gradient(rgba(68, 134, 178, 0.1), #fff);
+    background-image:-moz-linear-gradient(rgba(43, 105, 146, 0.1), #fff);
+    background-image:-ms-linear-gradient(rgba(68, 145, 197, 0.1), #fff);
+    background-image:-o-linear-gradient(rgba(10, 77, 123, 0.1), #fff);
+}
+
+.mlkpro{
+    color:#636362;
+    font-size:22px;
+    line-height:22px;
+    margin-bottom:15px;
+    width:43%;
+    margin:0 auto;
+    text-align:center;
+    
+}
+
+.goodnesssec a{
+    text-decoration: none;
+}
